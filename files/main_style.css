@@ -42,7 +42,7 @@
  .footer-wrap p { font-size: 14px; }
  .footer-wrap blockquote { font-size: 14px; background: transparent; padding: 0 0 0 1em; }
  .footer-wrap blockquote:before { top: 0; left: 0; font-size: 1.5em; }
- .birdseye-header { position: fixed; top: 0; z-index: 12; width: 100%; max-width: 100%; padding: 20px 40px; color: #ffffff; border-color: #ffffff; box-sizing: border-box; -webkit-transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; -moz-transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; -ms-transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
+ .birdseye-header { {background: black; position: fixed; top: 0; z-index: 12; width: 100%; max-width: 100%; padding: 20px 40px; color: #ffffff; border-color: #ffffff; box-sizing: border-box; -webkit-transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; -moz-transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; -ms-transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; transition: background-color 300ms ease, color 260ms ease, padding 180ms ease; backface-visibility: hidden; -webkit-backface-visibility: hidden; }
  .birdseye-header .container { display: table; overflow-y: hidden; width: 100%; max-height: 80px; }
  .birdseye-header .hamburger { display: none; box-sizing: initial; }
  .birdseye-header .logo { display: table-cell; overflow-y: hidden; vertical-align: middle; }
