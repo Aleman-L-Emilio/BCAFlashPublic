@@ -1,5 +1,1 @@
-RewriteEngine On
-RewriteCond %{HTTP_HOST} www.bcaflash.com
-RewriteRule (.*) http://bcaflash.com/$1 [R=301,L]
-
 ErrorDocument 404 /404.html
