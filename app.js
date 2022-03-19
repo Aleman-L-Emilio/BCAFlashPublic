@@ -32,9 +32,7 @@ app.get('/404', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', '404.html'));
 });
 
-app.listen(process.env.PORT || 3000, () => {
-  console.log("Server is running...");
-})
+app.listen(process.env.PORT || 3000);
 
 // const server = http.createServer(app);
 // server.listen(PORT);
