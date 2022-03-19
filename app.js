@@ -3,7 +3,7 @@ const express = require('express');
 const path = require('path');
 const logger = require('morgan');
 
-const PORT = 12345;
+const PORT = 3000;
 // Create "app" - handler for http requests
 const app = express();
 
@@ -32,6 +32,10 @@ app.get('/404', (req, res) => {
   res.sendFile(path.join(__dirname, 'public', '404.html'));
 });
 
-const server = http.createServer(app);
-server.listen(PORT);
-console.log(`HTTP server listening at http://localhost:${PORT}`);
+app.listen(process.env.PORT || 3000, () => {
+  console.log("Server is running...");
+})
+
+// const server = http.createServer(app);
+// server.listen(PORT);
+// console.log(`HTTP server listening at http://localhost:${PORT}`);
