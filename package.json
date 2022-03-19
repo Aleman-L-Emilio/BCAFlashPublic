@@ -9,7 +9,7 @@
   "start": "node app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Aleman-L-Emilio/BCAFlashPublic.git"
+    "url": "https://github.com/Aleman-L-Emilio/BCAFlashPublic.git"
   },
   "keywords": [],
   "author": "",
