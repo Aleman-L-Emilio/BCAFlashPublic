@@ -1,11 +1,12 @@
 {
   "name": "BCAFlashPublic",
   "version": "1.0.0",
-  "description": "",
+  "description": "The website to BCA Flash, a program held by Bergen County Academies students that teaches middle school students various topics",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "start": "node app.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Aleman-L-Emilio/BCAFlashPublic.git"
