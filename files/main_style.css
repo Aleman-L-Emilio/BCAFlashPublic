@@ -3,39 +3,39 @@
  .wsite-form-field textarea, .wsite-com-product-option-groups textarea { resize: none; }
  @font-face { 
     font-family: 'Birdseye'; 
-    src: asset-path(17c55b27-e9ab-43cd-b948-d49f97480d68) format("eot");
+    src: asset-path(2e3f5cb9-101f-46cf-a7b3-dfaa58261e03) format("woff2");
     font-weight: 100; 
     font-style: normal; 
 }
  @font-face { 
     font-family: 'Birdseye'; 
-    src: asset-path(8b498c39-fabe-4789-bb81-5e37c9ecddd3) format("eot")
+    src: asset-path(1c6c1881-23c9-4d6a-a018-759d1c9ded15) format("woff2")
     ;
     font-weight: 100; 
     font-style: italic; 
 }
  @font-face { 
     font-family: 'Birdseye'; 
-    src: asset-path(e9167238-3b3f-4813-a04a-a384394eed42) format("eot")
+    src: asset-path(2cd55546-ec00-4af9-aeca-4a3cd186da53) format("woff2")
     ;
     font-weight: 500; 
     font-style: normal;
 }
  @font-face { 
     font-family: 'Birdseye'; 
-    src: asset-path(d1fddef1-d940-4904-8f6c-17e809462301) format("eot");
+    src: asset-path(7377dbe6-f11a-4a05-b33c-bc8ce1f60f84) format("woff2");
     font-weight: 500; 
     font-style: italic; 
 }
  @font-face { 
     font-family: 'Birdseye'; 
-    src: asset-path(1a7c9181-cd24-4943-a9d9-d033189524e0) format("eot");
+    src: asset-path(627fbb5a-3bae-4cd9-b617-2f923e29d55e) format("woff2");
     font-weight: 600; 
     font-style: normal; 
 }
  @font-face {
     font-family: 'Birdseye'; 
-    src: asset-path(77a9cdce-ea6a-4f94-95df-e6a54555545e) format("eot");
+    src: asset-path(3f380a53-50ea-4a62-95c5-d5d8dba03ab8) format("woff2");
     font-weight: 600; 
     font-style: italic; 
 }
